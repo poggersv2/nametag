@@ -632,10 +632,15 @@
         "uuid": "b937b1f6-eca9-41ae-9edd-42589c785439"
       }
     ],
-    "used_designators": "L1",
+    "used_designators": "U1,L1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "b937b1f6-eca9-41ae-9edd-42589c785439",
+      "nametag"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
