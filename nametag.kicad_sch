@@ -1290,7 +1290,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Espressif:ESP32-S3-MINI-1")
-		(at 181.61 60.96 0)
+		(at 130.81 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1301,7 +1301,7 @@
 		(fields_autoplaced yes)
 		(uuid "93cc27ba-3288-4c35-8ac9-31464861aa96")
 		(property "Reference" "U2"
-			(at 183.7533 17.78 0)
+			(at 132.9533 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1312,7 +1312,7 @@
 			)
 		)
 		(property "Value" "ESP32-S3-MINI-1"
-			(at 183.7533 20.32 0)
+			(at 132.9533 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1323,7 +1323,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Espressif:ESP32-S3-MINI-1"
-			(at 181.61 116.84 0)
+			(at 130.81 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1334,7 +1334,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf"
-			(at 181.61 119.38 0)
+			(at 130.81 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1345,7 +1345,7 @@
 			)
 		)
 		(property "Description" "Smallsized module supporting 2.4 GHz WiFi (802.11 b/g/n) and Bluetooth ® 5 (LE) Built around ESP32S3 series of SoCs, Xtensa ® dualcore 32bit LX7 microprocessor Flash up to 8 MB, optional 2 MB PSRAM in chip package 39 GPIOs, rich set of peripherals Onboard PCB antenna or external antenna connector"
-			(at 181.61 60.96 0)
+			(at 130.81 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
